@@ -1,0 +1,54 @@
+
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    border-bottom: 3px solid #000000;
+    background-color: #36b336;
+}
+
+.baloldal {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+
+}
+
+.kozep {
+    display: flex;
+    align-items: center;
+
+}
+
+.jobboldal {
+    display: flex;
+    align-items: center;
+}
+
+.baloldal {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #333;
+    font-size: 25px;
+}
+
+.kozep {
+    position: absolute;
+    left: 50%;
+    font-size: 25px;
+    transform: translateX(-50%);
+    font-weight: bold;
+}
+
+.teló {
+    font-size: 25px;
+    color: #333;
+}
+
+.card .card-img-top {
+    max-height: 200px;
+    object-fit: contain;
+}
+
