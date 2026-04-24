@@ -52,3 +52,13 @@
     object-fit: contain;
 }
 
+.site-footer {
+    text-align: center;
+    padding: 15px 10px;
+    background-color: #36b336;
+    color: #333;
+    border-top: 3px solid #000000;
+    margin-top: 25px;
+    font-size: 0.95rem;
+}
+
