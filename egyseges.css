@@ -5,6 +5,7 @@
     padding: 10px 20px;
     border-bottom: 3px solid #000000;
     background-color: #36b336;
+      font-family: "Open Sans", sans-serif;
 }
 
 .baloldal {
@@ -57,7 +58,8 @@
     color: #333;
     border-top: 3px solid #000000;
     margin-top: 25px;
-    font-size: 0.95rem;
+    font-size: 1.3rem;
+    font-family: "Open Sans", sans-serif;
 }
 .row {
     margin-bottom: 30px;
@@ -74,4 +76,21 @@
 }
 body{
     background-color: #89df89;
+}
+
+.top-ár{
+    position: absolute;
+    top: 6px;         
+    right: 6px;     
+    width: 144px;
+    z-index: 10;
+}
+.card-text{
+    font-family: "Roboto", sans-serif;
+    
+}
+
+.card-title{
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
 }
