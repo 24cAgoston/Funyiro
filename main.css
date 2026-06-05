@@ -1,3 +1,7 @@
+body {
+  background-color: #89df89;
+}
+
 .navbar {
     display: flex;
     align-items: center;
@@ -85,6 +89,8 @@ footer {
     background-color: aquamarine;
     color: #000000;
 }
-body {
-  background-color: #89df89;
+
+.col {
+    height: 370px;
+    background-color: #89df89;
 }
