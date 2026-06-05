@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;
+    text-decoration: double;
+    text-shadow: 2px;
+    font-weight: bold;
+    margin-top: 200px;
+}
+body {
+    background-image: url("faszi.png");
+}
