@@ -4,6 +4,7 @@ h1 {
     text-shadow: 2px;
     font-weight: bold;
     margin-top: 200px;
+    color: white;
 }
 body {
     background-image: url("faszi.png");
